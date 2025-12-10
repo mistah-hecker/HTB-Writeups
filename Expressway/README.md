@@ -7,7 +7,9 @@ This is my personal write-up of the HTB Expressway machine. I’m still a beginn
 ## Overview
 
 **Difficulty:** Easy
+
 **Objective:** Get user and root flags
+
 **Techniques Used:** UDP enumeration, IKE Aggressive Mode, PSK cracking, sudo misconfiguration
 
 ---
